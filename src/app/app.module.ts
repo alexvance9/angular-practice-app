@@ -12,6 +12,8 @@ import { TasksComponent } from './components/tasks/tasks.component';
 import { TaskItemComponent } from './components/task-item/task-item.component';
 import { AddTaskComponent } from './components/add-task/add-task.component';
 
+
+
 @NgModule({
   declarations: [
     AppComponent,
